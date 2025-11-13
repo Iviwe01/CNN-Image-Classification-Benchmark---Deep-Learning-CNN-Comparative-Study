@@ -315,7 +315,7 @@ This project is licensed under the MIT License. See LICENSE file for details.
 - **Institution:** Howest University of Applied Sciences - Deep Learning Course
 - **Datasets:** Fashion-MNIST (Zalando Research), CIFAR-10 (Alex Krizhevsky, Vinod Nair, Geoffrey Hinton)
 - **Pre-trained Models:** VGG19 implementation from Keras Applications
-- **Academic Supervisor:** Deep Learning Course Professor
+- **Academic Supervisor:** Wouter GEVART
 
 ## Future Work
 
