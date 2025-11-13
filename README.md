@@ -305,7 +305,7 @@ This project is licensed under the MIT License. See LICENSE file for details.
 
 **Iviwe Mtambeka**
 
-Deep Learning Engineer | Computer Vision Specialist
+
 
 - GitHub: [@Iviwe01](https://github.com/Iviwe01)
 - Repository: [CNN-Image-Classification-Benchmark](https://github.com/Iviwe01/CNN-Image-Classification-Benchmark---Deep-Learning-CNN-Comparative-Study)
@@ -325,9 +325,3 @@ Deep Learning Engineer | Computer Vision Specialist
 4. Deploy models as REST API for real-time inference benchmarking
 5. Implement model quantization and optimization for edge device deployment
 
----
-
-**Last Updated:** November 2025  
-**Status:** Complete and Production-Ready  
-**Documentation:** Comprehensive  
-**Code Quality:** A+ (Professor-validated)
